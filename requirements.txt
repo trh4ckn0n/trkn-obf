@@ -1,0 +1,26 @@
+# requirements.txt - Dépendances du projet PentestAI
+
+# Pentesting & Networking
+requests
+shodan
+python-nmap
+nuclei-parser  # (Si disponible, sinon utiliser subprocess pour exécuter nuclei)
+socket
+
+# Intelligence Artificielle
+openai
+
+# Concurrence et performance
+concurrent.futures  # (Fait partie du standard library, mais nécessaire pour les anciens Python)
+
+# Interface CLI interactive
+questionary
+rich
+
+# Sécurité et obfuscation
+pyarmor
+pycryptodome
+marshmallow
+
+# Compilation en C
+nuitka
