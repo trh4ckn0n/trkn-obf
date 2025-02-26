@@ -1,5 +1,6 @@
 import os
 import re
+import subprocess
 
 # Fonction pour trouver les URLs dans un fichier
 def find_urls_in_file(file_path):
@@ -39,11 +40,24 @@ def update_readme_with_urls(urls_found):
     except Exception as e:
         print(f"Erreur lors de l'écriture dans le fichier README.md: {e}")
 
+# Fonction pour ajouter, commiter et pousser les changements dans Git
+def commit_and_push_changes():
+    try:
+        # Ajouter les changements
+        subprocess.run(["git", "add", "README.md"], check=True)
+        # Committer les changements
+        subprocess.run(['git', 'commit', '-m', '"Mise à jour des URLs dans README.md"'], check=True)
+        # Pousser les changements
+        subprocess.run(['git', 'push', 'origin', 'HEAD:main'], check=True)
+    except subprocess.CalledProcessError as e:
+        print(f"Erreur lors de l'exécution des commandes Git : {e}")
+
 if __name__ == "__main__":
     # Dossier à scanner (vous pouvez spécifier un dossier particulier ou tout le repo)
     directory_to_scan = "./"
     urls_found = scan_directory_for_urls(directory_to_scan)
     if urls_found:
         update_readme_with_urls(urls_found)
+        commit_and_push_changes()
     else:
         print("Aucune URL trouvée.")
