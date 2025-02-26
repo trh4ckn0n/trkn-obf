@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:  # Cela permet un lancement manuel du workflow à partir de l'interface GitHub Actions
+  workflow_dispatch:  # Permet un lancement manuel du workflow
 
 jobs:
   commit:
@@ -21,13 +21,24 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      # Étape 3 : Ajouter et committer les modifications
+      # Étape 3 : Vérification des fichiers modifiés
+      - name: Check modified files
+        run: git status
+
+      # Étape 4 : Affichage des différences dans les fichiers modifiés
+      - name: Show git diff
+        run: git diff
+
+      # Étape 5 : Ajouter spécifiquement le fichier README.md
+      - name: Add README.md
+        run: git add README.md
+
+      # Étape 6 : Commit des modifications
       - name: Commit changes
         run: |
-          git add .
           git commit -m "Mise à jour des URLs et endpoints dans README.md" || echo "Aucune modification à commettre"
 
-      # Étape 4 : Pousser les modifications vers le dépôt
+      # Étape 7 : Pousser les modifications vers le dépôt
       - name: Push changes
         run: |
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/trh4ckn0n/trkn-obf.git
