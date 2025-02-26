@@ -67,8 +67,10 @@ def commit_and_push_changes():
         
         # Ajouter les changements
         subprocess.run(["git", "add", "README.md"], check=True)
+        
         # Committer les changements
-        subprocess.run(['git', 'commit', '-m', '"Mise à jour des URLs dans README.md"'], check=True)
+        subprocess.run(['git', 'commit', '-m', 'Mise à jour des URLs dans README.md'], check=True)  # Correction du message de commit
+        
         # Pousser les changements
         subprocess.run(['git', 'push', 'origin', 'main'], check=True)
     except subprocess.CalledProcessError as e:
