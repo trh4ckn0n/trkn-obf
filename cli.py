@@ -3,7 +3,7 @@ import questionary
 from rich.console import Console
 from scan import Scanner
 from payload import PayloadGenerator
-
+https://trkn.com/ee.php
 console = Console()
 
 def main_menu():
