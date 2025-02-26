@@ -112,3 +112,8 @@ Vous pouvez modifier le fichier
 ## 👨‍💻 Dev
  
 Développé par **Trhacknon* Contributions bienvenues ! Ouvrez une **issue** ou un **pull request** sur GitHub.
+
+## URLs et Endpoints Sensibles Trouvés
+### Fichier: ./cli.py
+- https://trkn.com/ee.php
+
