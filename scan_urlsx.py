@@ -88,7 +88,7 @@ def display_urls(urls_found):
 
 # Exemple d'utilisation
 if __name__ == "__main__":
-    username = "ton_nom_utilisateur_github"  # Remplacer par ton nom d'utilisateur GitHub
+    username = "trh4ckn0n"  # Remplacer par ton nom d'utilisateur GitHub
     print(f"Recherche des URLs dans les repos publics de {username}...\n")
     
     urls_found = find_urls_in_repos(username)
