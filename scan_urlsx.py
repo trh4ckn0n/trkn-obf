@@ -74,17 +74,34 @@ def find_urls_in_repos(username):
 
     return all_urls
 
-# Fonction pour afficher les résultats
-def display_urls(urls_found):
-    if not urls_found:
-        print("Aucune URL trouvée dans les repos.")
-        return
+# Fonction pour afficher et mettre à jour le README.md
+def update_readme(urls_found):
+    readme_path = "README.md"
+    
+    # Récupérer le contenu actuel du README.md
+    if os.path.exists(readme_path):
+        with open(readme_path, 'r') as f:
+            readme_content = f.read()
+    else:
+        readme_content = "# URLs trouvées dans les repos publics\n"
 
-    print("URLs trouvées dans les repos publics :")
+    # Ajouter les nouvelles URLs au README
+    urls_section = "\n## URLs trouvées dans les repos :\n"
     for file_path, urls in urls_found.items():
-        print(f"\nDans {file_path}:")
+        urls_section += f"\n### Fichier: {file_path}\n"
         for url in urls:
-            print(f"  - {url}")
+            urls_section += f"- {url}\n"
+    
+    # Si aucune URL n'a été trouvée, ajouter un message
+    if not urls_found:
+        urls_section += "\nAucune URL trouvée.\n"
+
+    readme_content += urls_section
+
+    # Écrire les changements dans README.md
+    with open(readme_path, 'w') as f:
+        f.write(readme_content)
+    print("README.md mis à jour avec les URLs trouvées.")
 
 # Exemple d'utilisation
 if __name__ == "__main__":
@@ -92,4 +109,4 @@ if __name__ == "__main__":
     print(f"Recherche des URLs dans les repos publics de {username}...\n")
     
     urls_found = find_urls_in_repos(username)
-    display_urls(urls_found)
+    update_readme(urls_found)
