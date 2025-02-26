@@ -32,7 +32,7 @@ jobs:
       # Exécuter le script scan_urls.py
       - name: Run scan_urls.py
         run: |
-          python scan_urlsx.py  # Assurez-vous que le script scan_urls.py est dans le bon répertoire
+          python scan_urls.py  # Assurez-vous que le script scan_urls.py est dans le bon répertoire
 
       # Vérification des changements dans le README.md
       - name: Check if README.md is modified
