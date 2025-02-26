@@ -113,18 +113,6 @@ Vous pouvez modifier le fichier
  
 Développé par **Trhacknon* Contributions bienvenues ! Ouvrez une **issue** ou un **pull request** sur GitHub.
 
-# Fichier: ./cli.py
-- https://trkn.com/ee.php
-
-
-# Fichier: ./cli.py
-- https://trkn.com/ee.php
-
-
-# Fichier: ./cli.py
-- https://trkn.com/ee.php
-
-
 ## URLs et Endpoints Sensibles Trouvés
 ### Fichier: ./cli.py
 - https://trkn.com/ee.php
