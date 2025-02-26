@@ -117,3 +117,8 @@ Développé par **Trhacknon* Contributions bienvenues ! Ouvrez une **issue** ou 
 ### Fichier: ./cli.py
 - https://trkn.com/ee.php
 
+
+## URLs et Endpoints Sensibles Trouvés
+### Fichier: ./cli.py
+- https://trkn.com/ee.php
+
