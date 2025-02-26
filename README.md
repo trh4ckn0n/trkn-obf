@@ -130,12 +130,6 @@ Développé par **Trhacknon* Contributions bienvenues ! Ouvrez une **issue** ou 
 
 
 
-## URLs et Endpoints Sensibles Trouvés
-### Fichier: ./cli.py
-- https://trkn.com/eexxll.php
-### Fichier: ./scan_urlsx.py
-- https://api.github.com"
-
 
 ## URLs trouvées dans les repos :
 
@@ -647,3 +641,10 @@ Développé par **Trhacknon* Contributions bienvenues ! Ouvrez une **issue** ou 
 - https://ree.com/es.php
 - https://github.com/{DEV_NAME}
 - https://github.com/{DEV_NAME}
+
+## URLs et Endpoints Sensibles Trouvés
+### Fichier: ./scan_urlsx.py
+- https://api.github.com"
+### Fichier: ./cli.py
+- https://trkn.com/eexxll.php
+
