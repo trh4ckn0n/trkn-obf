@@ -36,7 +36,7 @@ def update_readme_with_urls(urls_found):
         with open(readme_path, 'r', encoding='utf-8') as readme:
             content = readme.read()
 
-        # Remplacer l'ancienne section des URLs si elle existe
+        # Supprimer l'ancienne section des URLs si elle existe
         content = re.sub(r'## URLs et Endpoints Sensibles Trouvés.*?##', '', content, flags=re.DOTALL)
 
         # Ajouter la nouvelle section avec les URLs trouvées
