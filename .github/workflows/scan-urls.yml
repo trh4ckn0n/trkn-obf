@@ -1,21 +1,34 @@
+name: Commit and Push Changes
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:  # Cela permet un lancement manuel du workflow à partir de l'interface GitHub Actions
+
 jobs:
   commit:
     runs-on: ubuntu-latest
 
     steps:
+      # Étape 1 : Checkout du dépôt
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      # Étape 2 : Configuration de Git
       - name: Set up Git
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
+      # Étape 3 : Ajouter et committer les modifications
       - name: Commit changes
         run: |
           git add .
           git commit -m "Mise à jour des URLs et endpoints dans README.md" || echo "Aucune modification à commettre"
-        
+
+      # Étape 4 : Pousser les modifications vers le dépôt
       - name: Push changes
         run: |
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/trh4ckn0n/trkn-obf.git HEAD:main
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/trh4ckn0n/trkn-obf.git
+          git push origin HEAD:main
