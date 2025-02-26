@@ -1,45 +1,47 @@
-name: Commit and Push Changes
+name: Scan URLs and Update README
 
 on:
   push:
     branches:
-      - main
-  workflow_dispatch:  # Permet un lancement manuel du workflow
+      - main  # Ou une autre branche si nécessaire
+  workflow_dispatch:  # Permet d'exécuter le workflow manuellement depuis l'interface de GitHub Actions
 
 jobs:
-  commit:
+  scan:
     runs-on: ubuntu-latest
 
     steps:
-      # Étape 1 : Checkout du dépôt
+      # Checkout du code
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      # Étape 2 : Configuration de Git
-      - name: Set up Git
+      # Setup Python
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      # Installer les dépendances Python (si nécessaire)
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # Si tu as un fichier requirements.txt
+
+      # Exécuter le script scan_urls.py
+      - name: Run scan_urls.py
+        run: |
+          python scan_urls.py  # Assurez-vous que le script scan_urls.py est dans le bon répertoire
+
+      # Vérification des changements dans le README.md
+      - name: Check if README.md is modified
+        run: |
+          git diff --exit-code README.md || echo "README.md has been modified"
+
+      # Ajouter les modifications à Git, commit et push
+      - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      # Étape 3 : Vérification des fichiers modifiés
-      - name: Check modified files
-        run: git status
-
-      # Étape 4 : Affichage des différences dans les fichiers modifiés
-      - name: Show git diff
-        run: git diff
-
-      # Étape 5 : Ajouter spécifiquement le fichier README.md
-      - name: Add README.md
-        run: git add README.md
-
-      # Étape 6 : Commit des modifications
-      - name: Commit changes
-        run: |
-          git commit -m "Mise à jour des URLs et endpoints dans README.md" || echo "Aucune modification à commettre"
-
-      # Étape 7 : Pousser les modifications vers le dépôt
-      - name: Push changes
-        run: |
-          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/trh4ckn0n/trkn-obf.git
-          git push origin HEAD:main
+          git add README.md
+          git commit -m "Mise à jour des URLs et endpoints dans README.md" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }} HEAD:main
