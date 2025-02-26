@@ -5,6 +5,8 @@ on:
     branches:
       - main  # Ou une autre branche si nécessaire
   workflow_dispatch:  # Permet d'exécuter le workflow manuellement depuis l'interface de GitHub Actions
+  schedule:
+    - cron: '0 */12 * * *'  # Exécution toutes les 12 heures (à minuit et à midi)
 
 jobs:
   scan:
