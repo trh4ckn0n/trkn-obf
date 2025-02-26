@@ -1,36 +1,21 @@
-name: Scan URLs and Update README
-
-# Permet de lancer manuellement le workflow
-on:
-  workflow_dispatch:   # Ajout de workflow_dispatch pour exécution manuelle
-  push:
-    branches:
-      - main  # Changez cela selon votre branche principale
-
 jobs:
-  scan_and_update:
+  commit:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
 
-      - name: Set up Python environment
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: Install required Python packages
+      - name: Set up Git
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt  # Si vous avez un fichier requirements.txt
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Run URL scan and update README
+      - name: Commit changes
         run: |
-          python scan_urls.py  # Exécuter le script pour scanner les URLs et mettre à jour README.md
-
-      - name: Commit and push changes to README
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Mise à jour des URLs et endpoints dans README.md"
-          file_pattern: "README.md"
+          git add .
+          git commit -m "Mise à jour des URLs et endpoints dans README.md" || echo "Aucune modification à commettre"
+        
+      - name: Push changes
+        run: |
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/trh4ckn0n/trkn-obf.git HEAD:main
