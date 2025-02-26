@@ -1,6 +1,8 @@
 name: Scan URLs and Update README
 
+# Permet de lancer manuellement le workflow
 on:
+  workflow_dispatch:   # Ajout de workflow_dispatch pour exécution manuelle
   push:
     branches:
       - main  # Changez cela selon votre branche principale
