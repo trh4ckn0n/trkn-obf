@@ -63,7 +63,7 @@ def commit_and_push_changes():
         subprocess.run(["git", "status"], check=True)
         
         # Récupère les dernières modifications du dépôt distant avant de pousser
-        subprocess.run(["git", "pull", "origin", "main"], check=True)  # Assurez-vous que la branche est la bonne
+        subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True)  # Utilisation de rebase pour garder l'historique propre
         
         # Ajouter les changements
         subprocess.run(["git", "add", "README.md"], check=True)
@@ -73,6 +73,7 @@ def commit_and_push_changes():
         subprocess.run(['git', 'push', 'origin', 'main'], check=True)
     except subprocess.CalledProcessError as e:
         print(f"Erreur lors de l'exécution des commandes Git : {e}")
+
 if __name__ == "__main__":
     # Dossier à scanner (vous pouvez spécifier un dossier particulier ou tout le repo)
     directory_to_scan = "./"
