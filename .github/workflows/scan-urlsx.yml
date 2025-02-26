@@ -28,7 +28,7 @@ jobs:
 
       - name: Run Python URL scan script
         run: |
-          python scan_urls.py
+          python scan_urlsx.py
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Utilisation du secret GH_TOKEN
 
