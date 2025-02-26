@@ -1,0 +1,32 @@
+name: Scan URLs in Public Repos
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */12 * * *'  # Exécute tous les 12 heures
+  workflow_dispatch:  # Exécution manuelle
+
+jobs:
+  scan-urls:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run Python URL scan script
+        run: |
+          python scan_urlsx.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Utilisation du secret GH_TOKEN
