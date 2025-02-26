@@ -62,15 +62,17 @@ def commit_and_push_changes():
         # Vérifie l'état des fichiers dans Git
         subprocess.run(["git", "status"], check=True)
         
+        # Récupère les dernières modifications du dépôt distant avant de pousser
+        subprocess.run(["git", "pull", "origin", "main"], check=True)  # Assurez-vous que la branche est la bonne
+        
         # Ajouter les changements
         subprocess.run(["git", "add", "README.md"], check=True)
         # Committer les changements
         subprocess.run(['git', 'commit', '-m', '"Mise à jour des URLs dans README.md"'], check=True)
         # Pousser les changements
-        subprocess.run(['git', 'push', 'origin', 'HEAD:main'], check=True)
+        subprocess.run(['git', 'push', 'origin', 'main'], check=True)
     except subprocess.CalledProcessError as e:
         print(f"Erreur lors de l'exécution des commandes Git : {e}")
-
 if __name__ == "__main__":
     # Dossier à scanner (vous pouvez spécifier un dossier particulier ou tout le repo)
     directory_to_scan = "./"
