@@ -24,11 +24,13 @@ def scan_directory_for_urls(directory):
                 urls = find_urls_in_file(file_path)
                 if urls:
                     urls_found[file_path] = urls
+                    print(f"URLs trouvées dans {file_path}: {urls}")  # Debug: affiche les URLs trouvées
     return urls_found
 
 # Fonction pour mettre à jour le README.md avec les résultats
 def update_readme_with_urls(urls_found):
     readme_path = "README.md"
+    print(f"Ouverture du fichier README.md à {readme_path}")  # Debug: vérifie que le fichier est ouvert
     try:
         with open(readme_path, 'a', encoding='utf-8') as readme:
             readme.write("\n## URLs et Endpoints Sensibles Trouvés\n")
@@ -37,12 +39,16 @@ def update_readme_with_urls(urls_found):
                 for url in urls:
                     readme.write(f"- {url}\n")
             readme.write("\n")
+            print("Modifications apportées au README.md")  # Debug: vérifie que le fichier est bien modifié
     except Exception as e:
         print(f"Erreur lors de l'écriture dans le fichier README.md: {e}")
 
 # Fonction pour ajouter, commiter et pousser les changements dans Git
 def commit_and_push_changes():
     try:
+        # Vérifie l'état des fichiers dans Git
+        subprocess.run(["git", "status"], check=True)
+        
         # Ajouter les changements
         subprocess.run(["git", "add", "README.md"], check=True)
         # Committer les changements
