@@ -59,20 +59,21 @@ def update_readme_with_urls(urls_found):
 # Fonction pour ajouter, commiter et pousser les changements dans Git
 def commit_and_push_changes():
     try:
-        # Vérifie l'état des fichiers dans Git
-        subprocess.run(["git", "status"], check=True)
+        # Synchroniser avec le dépôt distant avant toute modification
+        subprocess.run(["git", "fetch", "origin"], check=True)  # Récupérer les dernières modifications
         
-        # Récupère les dernières modifications du dépôt distant avant de pousser
-        subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True)  # Utilisation de rebase pour garder l'historique propre
+        # Vérifier si des changements sont en cours sur la branche locale
+        subprocess.run(["git", "rebase", "origin/main"], check=True)  # Rebase pour éviter les conflits
         
-        # Ajouter les changements
+        # Ajouter les modifications du fichier README
         subprocess.run(["git", "add", "README.md"], check=True)
         
         # Committer les changements
-        subprocess.run(['git', 'commit', '-m', 'Mise à jour des URLs dans README.md'], check=True)  # Correction du message de commit
+        subprocess.run(['git', 'commit', '-m', 'Mise à jour des URLs dans README.md'], check=True)  # Message de commit
         
-        # Pousser les changements
+        # Pousser les modifications vers le dépôt distant
         subprocess.run(['git', 'push', 'origin', 'main'], check=True)
+
     except subprocess.CalledProcessError as e:
         print(f"Erreur lors de l'exécution des commandes Git : {e}")
 
