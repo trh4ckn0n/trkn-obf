@@ -32,14 +32,27 @@ def update_readme_with_urls(urls_found):
     readme_path = "README.md"
     print(f"Ouverture du fichier README.md à {readme_path}")  # Debug: vérifie que le fichier est ouvert
     try:
-        with open(readme_path, 'a', encoding='utf-8') as readme:
-            readme.write("\n## URLs et Endpoints Sensibles Trouvés\n")
-            for file_path, urls in urls_found.items():
-                readme.write(f"### Fichier: {file_path}\n")
-                for url in urls:
-                    readme.write(f"- {url}\n")
-            readme.write("\n")
-            print("Modifications apportées au README.md")  # Debug: vérifie que le fichier est bien modifié
+        # Lire le contenu actuel du README
+        with open(readme_path, 'r', encoding='utf-8') as readme:
+            content = readme.read()
+
+        # Remplacer l'ancienne section des URLs si elle existe
+        content = re.sub(r'## URLs et Endpoints Sensibles Trouvés.*?##', '', content, flags=re.DOTALL)
+
+        # Ajouter la nouvelle section avec les URLs trouvées
+        new_content = content + "\n## URLs et Endpoints Sensibles Trouvés\n"
+        for file_path, urls in urls_found.items():
+            new_content += f"### Fichier: {file_path}\n"
+            for url in urls:
+                new_content += f"- {url}\n"
+        new_content += "\n"
+
+        # Écrire le contenu mis à jour dans le README.md
+        with open(readme_path, 'w', encoding='utf-8') as readme:
+            readme.write(new_content)
+
+        print("Modifications apportées au README.md")  # Debug: vérifie que le fichier est bien modifié
+
     except Exception as e:
         print(f"Erreur lors de l'écriture dans le fichier README.md: {e}")
 
