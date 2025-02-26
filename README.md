@@ -123,7 +123,10 @@ Développé par **Trhacknon* Contributions bienvenues ! Ouvrez une **issue** ou 
 
 
 
+
 ## URLs et Endpoints Sensibles Trouvés
 ### Fichier: ./cli.py
 - https://trkn.com/eexxll.php
+### Fichier: ./scan_urlsx.py
+- https://api.github.com"
 
