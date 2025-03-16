@@ -26388,3 +26388,876 @@ Développé par **Trhacknon* Contributions bienvenues ! Ouvrez une **issue** ou 
 ### Fichier: ./cli.py
 - https://trkn.com/eexxll.php
 
+
+## URLs trouvées dans les repos :
+
+### Fichier: amazon-prime-video-site/index.html
+- https://kit.fontawesome.com/aa1d7fc9dd.js"
+
+### Fichier: amazon-prime-video-site/movie.js
+- https://api.themoviedb.org/3/movie/popular?api_key=86ef71989f8c4a9a7cc321d7a0f6a528')
+- https://image.tmdb.org/t/p/original/`+i.backdrop_path+`')"></div>
+- https://image.tmdb.org/t/p/w500`+i.backdrop_path+`"/>
+- https://image.tmdb.org/t/p/w500`+i.backdrop_path+`"/>
+
+### Fichier: Astro-modules/AntiMat.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/AntiMat.jpg
+
+### Fichier: Astro-modules/Compliments.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/Compliments.jpg
+
+### Fichier: Astro-modules/Emotions.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/Emotions.jpg
+
+### Fichier: Astro-modules/RandomPasswordGenerator.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/PasswordGenerator.jpg
+
+### Fichier: Astro-modules/RandomStatuses.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/RandomStatuses.jpg
+- https://t.me/AstroModsChat",
+- https://t.me/AstroModules",
+- https://status69.ru/page/{i}"
+- https://t.me/AstroModsChat",
+- https://t.me/AstroModules",
+- https://t.me/AstroModsChat",
+- https://t.me/AstroModules",
+
+### Fichier: Astro-modules/RandomTrack.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/RandomTrack.jpg
+
+### Fichier: Astro-modules/RandomUser.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/RandomUser.jpg
+- https://t.me/{self.user.username}'>{self.user.first_name}</a>"
+- https://t.me/AstroModules"
+- https://t.me/smeowcodes"
+
+### Fichier: Astro-modules/Steam.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/AstroSteamNow.png
+- https://t.me/help_code/20",
+- https://t.me/help_code/21",
+- http://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key={}&steamids={}'
+- http://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v0001/?key={}&steamid={}&format=json'
+- http://store.steampowered.com/api/appdetails?appids={gameId}"
+
+### Fichier: Astro-modules/TwinkManager.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/TwinkManager.jpg
+
+### Fichier: Astro-modules/TxAFK.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://t.me/AstroModulesChat",
+
+### Fichier: Astro-modules/YandexMusic.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/YaMusic.jpg
+
+### Fichier: Astro-modules/achievements.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/Achievements.jpg
+- https://minecraft-inside.ru/achievements/
+- https://minecraft-inside.ru/achievements/
+- https://minecraft-inside.ru/achievements/\n\nIdea
+- https://minecraft-inside.ru/achievements/
+- https://den4iksop.org/tg-stickers-api/achievement",
+
+### Fichier: Astro-modules/akinator.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/Akinator.jpg
+- https://graph.org/file/3cc8825c029fd0cab9edc.jpg"
+- https://0x0.st/H1rk.jpg"
+
+### Fichier: Astro-modules/astroafk.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/AstroAFK.jpg
+
+### Fichier: Astro-modules/astroweather.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/AstroWeather.jpg
+- https://t.me/help_code/12",
+- http://api.openweathermap.org/data/2.5/weather",
+
+### Fichier: Astro-modules/brawl_stats.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/BrawlStats.jpg
+- https://api.myip.com/').json()["ip"]
+
+### Fichier: Astro-modules/commands_logger.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/HikkaCommandsLogger.jpg
+- https://t.me/c/{}/{}'>CLICK</a></b>"
+- https://t.me/c/{}/{}'>CLICK</a></b>"
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/HikkaCommandsLoggerAvatar.png",
+- https://t.me/{sender.username}'>{sender.first_name
+- https://t.me/{chat_username}'>{chat.title}</a>"
+- https://t.me/{chat.username}'>{chat.first_name}</a>"
+
+### Fichier: Astro-modules/convertio.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/Convertio.jpg
+- https://den4iksop.org/convertio/getApiKey").json()
+- https://github.com/PetitPotiron/python-convertio/blob/main/convertio/client.py#L14
+- http://api.convertio.co/convert",
+- http://api.convertio.co/convert/{id}/{fp.split("/")[-1]}',
+- https://api.convertio.co/convert/{id}/status").json()
+- https://api.convertio.co/convert/{id}/dl").json()
+- https://convertio.co"""
+- https://convertio.co",
+- https://developers.convertio.co
+
+### Fichier: Astro-modules/demotivator.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/Demotivator.jpg
+- https://0x0.st/HHyo.ttf",
+- https://github.com/Infqq/simpledemotivators/blob/main/simpledemotivators/Demotivator.py
+- https://github.com/Infqq/simpledemotivators/
+
+### Fichier: Astro-modules/dialogs_manager.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/DialogsManager.jpg
+
+### Fichier: Astro-modules/dl_yt_previews.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/YouTubePreviews.jpg
+- http://i1.ytimg.com/vi/"
+- http://i1.ytimg.com/vi/"
+- http://i1.ytimg.com/vi/"
+- http://i1.ytimg.com/vi/"
+- http://i1.ytimg.com/vi/"
+
+### Fichier: Astro-modules/gamecheat.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://github.com/norouzy/Gamee-Cheat
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/GameeCheat.jpg
+- https://t.me/help_code/15">туториал</a>'
+- https://raw.githubusercontent.com/ToXic2290/Hikka-moduless/main/GameCheatsLib.py')
+
+### Fichier: Astro-modules/iOSAppsForAndroid.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/iOSAppsForAndroid.jpg
+- https://t.me/IbreymMods).\nMods:
+- https://telegra.ph/Kalkulyator-v-stile-ios-16-na-lyuboj-android-07-12"
+- https://youtu.be/rlFNpG2BRB0'>🎥Video
+- https://t.me/progi95/3562\n\nTo
+- https://telegra.ph/Zametki-v-stile-ios-16-na-lyuboj-android-07-11'>screenshots</a>)</b>"
+- https://telegra.ph/Galereya-v-stile-ios-16-na-lyuboj-android-07-10"
+- https://t.me/IbreymMods).\nМоды:
+- https://telegra.ph/Kalkulyator-v-stile-ios-16-na-lyuboj-android-07-12'>скрины</a></b>"
+- https://youtu.be/D3IjVjuy9kI'>🎥Видеообзор</a></b>"
+- https://youtu.be/n0aFenC3cz0'>🎥Видеообзор</a></b>"
+- https://youtu.be/rlFNpG2BRB0'>🎥Видеообзор</a></b>"
+- https://t.me/progi95/3562\n\nДля
+- https://telegra.ph/Zametki-v-stile-ios-16-na-lyuboj-android-07-11'>скрины</a>)</b>"
+- https://telegra.ph/Galereya-v-stile-ios-16-na-lyuboj-android-07-10'>скрины</a>)</b>"
+- https://t.me/progi95_screen/41'>Скрин</a>.\n—
+- https://t.me/AstroModsChat",
+- https://t.me/AstroModules",
+- https://t.me/progi95/3806"
+- https://0x0.st/o1Pe.jpg",
+- https://t.me/progi95/3801",
+- https://t.me/progi95/3796"
+- https://0x0.st/o1ZH.jpg",
+- https://t.me/progi95/3754",
+- https://0x0.st/o1Zm.jpg",
+- https://t.me/progi95/3897",
+- https://t.me/progi95/3898",
+- https://t.me/IbreymMods/576",
+- https://t.me/IbreymMods/574",
+- https://t.me/IbreymMods/573",
+- https://t.me/IbreymMods/572",
+- https://t.me/IbreymMods/577",
+- https://0x0.st/oeEW.jpg"
+- https://t.me/progi95/3885"
+- https://0x0.st/oelz.jpg"
+- https://t.me/progi95/3851"
+- https://t.me/IbreymMods/585"
+
+### Fichier: Astro-modules/inline_bot_manager.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/InlineBotManager.jpg
+
+### Fichier: Astro-modules/komarumod.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/Komaru.jpg
+
+### Fichier: Astro-modules/mindtalk.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/MindTalk.jpg
+- https://t.me/hikpsybot?start=register">this
+- https://ps.hikamoru.uz'
+
+### Fichier: Astro-modules/minesweeper.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/MineSwepper.png
+
+### Fichier: Astro-modules/pcmanager.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/PCManager.jpg
+- https://raw.githubusercontent.com/ToXic2290/Hikka-moduless/main/AstroModules_Library.py',
+
+### Fichier: Astro-modules/shazam.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/AstroShazam.png
+
+### Fichier: Astro-modules/summer.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/Summer.jpg
+
+### Fichier: Astro-modules/video_to_voice.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/VideoToVoice.jpg
+
+### Fichier: Astro-modules/wordly.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+- https://raw.githubusercontent.com/Den4ikSuperOstryyPer4ik/Astro-modules/main/Banners/WordlyHelper.jpg
+- https://0x0.st/HNeQ.json").json().items():
+
+### Fichier: Astro-modules/вахуи_пон.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+
+### Fichier: Astro-modules/пон_вахуи.py
+- https://t.me/Den4ikSuperOstryyPer4ik
+- https://t.me/ToXicUse
+- https://www.gnu.org/licenses/agpl-3.0.html
+
+### Fichier: ControlNetPlus/controlnet_union_test_scribble.py
+- https://github.com/lllyasviel/ControlNet/blob/main/gradio_fake_scribble2image.py
+
+### Fichier: escrow/scraper.py
+- https://info.signal-arnaques.com/tous-les-articles"
+
+### Fichier: gentor/app.py
+- http://154.12.234.206:5000"
+- http://154.12.234.206:5000/generate",
+
+### Fichier: komjaime/conditions-generales-de-ventes.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- http://www.coliposte.net/">(www.coliposte.net)</a>
+- https://assets.commejaime.fr/formulaire_retractation.pdf"
+- https://www.commejaime.fr/coupon-validation"
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/connexion.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- https://captcha.liveidentity.com/captcha"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/contact-presse.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- https://www.commejaime.fr/press-handler"
+- https://www.commejaime.fr/coupon-validation"
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/contact.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- https://www.commejaime.fr/contact-handler"
+- https://www.commejaime.fr/coupon-validation"
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/cookies.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- https://support.mozilla.org/fr/kb/effacer-cookies-donnees-site-firefox?redirectslug=effacer-les-cookies-pour-supprimer-les-information&amp;redirectlocale=fr"
+- https://support.microsoft.com/fr-fr/windows/supprimer-et-gérer-les-cookies-168dab11-0753-043d-7c16-ede5947fc64d#:~:text=Dans%20Internet%20Explorer%2C%20s%C3%A9lectionnez%20le,Web%20%2C%20puis%20cliquez%20sur%20supprimer."
+- https://support.google.com/accounts/answer/32050?co=GENIE.Platform%3DDesktop&amp;hl=fr"
+- https://support.apple.com/fr-fr/HT201265"
+- https://www.commejaime.fr/coupon-validation"
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/index.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- https://www.commejaime.fr/coupon-validation"
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://fr.trustpilot.com/review/commejaime.fr"
+- https://www.commejaime.fr/resultats-imc"
+- https://fr.trustpilot.com/review/commejaime.fr"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/informations-legales.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- https://www.commejaime.fr/coupon-validation"
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/la-methode.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- https://www.commejaime.fr/coupon-validation"
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://apps.apple.com/fr/app/comme-jaime/id1449993418"
+- https://play.google.com/store/apps/details?id=com.cjaapp.prod&amp;hl=fr"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/les-menus.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- https://www.commejaime.fr/coupon-validation"
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/les-offres.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://fr.trustpilot.com/review/commejaime.fr"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/les-programmes.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://fr.trustpilot.com/review/commejaime.fr"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/les-programmes9fb7.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://fr.trustpilot.com/review/commejaime.fr"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/les-programmesb5cd.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://fr.trustpilot.com/review/commejaime.fr"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/mot-de-passe-oublie.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- https://www.commejaime.fr/recovery-validation">
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/nos-conseils.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- https://www.commejaime.fr/coupon-validation"
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/nos-livres.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/offres-speciales.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- https://www.commejaime.fr/coupon-validation"
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://fr.trustpilot.com/review/commejaime.fr"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/protections-des-donnees-personnelles.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679"
+- https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679</a>.
+- http://www.commejaime.fr)/">www.commejaime.fr)</a>
+- https://www.commejaime.fr/coupon-validation"
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/questions-frequentes.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- https://play.google.com/store/apps/details?id=com.cjaapp.prod&amp;hl=fr"
+- https://apps.apple.com/fr/app/comme-jaime/id1449993418"
+- https://client.commejaime.fr/'
+- https://assets.commejaime.fr/balances-guides_20210330.pdf'
+- http://mafreebox.freebox.fr</li>
+- http://192.168.1.1</li>
+- http://192.168.1.254</li>
+- http://192.168.0.1</li>
+- https://www.commejaime.fr/coupon-validation"
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://fr.trustpilot.com/review/commejaime.fr"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/qui-sommes-nous.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: komjaime/resultats.html
+- https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},284:(e,t,r)=>{"use
+- http://custom.transaction")+t,j(R,"setPageViewName",!0)()},m.setCustomAttribute=function(e,t,r=!1){if("string"==typeof
+- https://"+e};let
+- https://js-agent.newrelic.com/",(()=>{var
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.shopcommejaime.fr/?utm_source=siteCJA"
+- https://fr.trustpilot.com/review/commejaime.fr"
+- https://www.commejaime.fr/coupon-validation"
+- http://www.w3.org/2000/svg"
+- http://www.w3.org/2000/svg"
+- https://www.commejaime.fr/resultats-imc"
+- https://commejaime.sitederecrutement.com/cv/"
+- https://leblog.commejaime.fr/"
+- https://fr-fr.facebook.com/commejaime/"
+- https://www.instagram.com/commejaime/?hl=fr"
+- https://twitter.com/commejaime?lang=fr"
+- https://www.tiktok.com/@commejaimeofficiel"
+- https://www.youtube.com/channel/UCs7bpWOTcRyu57F99FWby_g"
+- https://escda.fr/'
+
+### Fichier: ope/app.py
+- https://raw.githubusercontent.com/trh4ckn0n/ope/refs/heads/main/uYidUgA01.svg"
+- https://e.top4top.io/p_33570y4z00.png"
+- https://img.shields.io/github/stars/trh4ckn0n/ope.svg?logo=github&style=social)](https://gitHub.com/trh4ckn0n/ope)")
+- https://news.google.com/rss/search?q=Anonymous+Hacktivism&hl=fr&gl=FR&ceid=FR:fr"
+- https://img.shields.io/github/stars/trh4ckn0n/ope.svg?logo=github&style=social)](https://gitHub.com/trh4ckn0n/ope)")
+- https://raw.githubusercontent.com/trh4ckn0n/ope/refs/heads/main/KXnKNCo01.svg"
+- https://raw.githubusercontent.com/trh4ckn0n/ope/refs/heads/main/6c8KI301%20(4).svg"
+- https://www.cybersecurity-guide.com)")
+- http://**.onion/soon)")
+- https://osintframework.com)")
+
+### Fichier: Profile-Readme-WakaTime/main.py
+- https://wakatime.com/api/v1/users/current/stats/{stats_range}?api_key={waka_key}"
+
+### Fichier: scrapnotif/scraper.py
+- https://www.alsetex.fr/'
+
+### Fichier: scrapnotif/script_meteo.py
+- http://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=metric&lang=fr"
+- https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif'
+- https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif'
+
+### Fichier: secret/app.py
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Anonymous_logo.svg/640px-Anonymous_logo.svg.png',
+
+### Fichier: Temp-SMS-Receive/index.html
+- https://h.top4top.io/p_3353wl0ia0.jpeg"
+- https://wakatime.com/badge/user/018e35c7-dffb-4eaa-b21c-9bb81183371b/project/946f7b58-72c0-4ed3-a83f-1dc1d76f842a">wakatime</a>
+- https://www.codefactor.io/repository/github/sl-sanda-ru/temp-sms-receive">CodeFactor</a>
+- https://github.com/trh4ckn0n/temp-sms-receive">GitHub</a>
+- https://opensource.org/licenses/MIT">License</a>
+- https://github.com/trh4ckn0n/Temp-SMS-Receive.git
+- https://play.google.com/store/apps/details?id=com.tempnumber.Temp_Number.Temp_Number">Temp
+- https://github.com/Sl-Sanda-Ru/Temp-SMS-Receive/stargazers">Stargazers
+- https://github.com/Sl-Sanda-Ru/Temp-SMS-Receive/network/members">Forkers
+- https://github.com/Sl-Sanda-Ru">GitHub</a></li>
+- https://t.me/Sl_Sanda_Ru">Telegram</a></li>
+
+### Fichier: Temp-SMS-Receive/temp.py
+- https://github.com/trh4ckn0n,
+- https://t.me/trhacknon
+- https://api-1.online/post/"
+- https://api-1.online/get/"
+- https://api-1.online/post/"
+- https://api-1.online/post/getFreeMessages"
+- https://raw.githubusercontent.com/trh4ckn0n/Temp-SMS-Receive/main/.version").text.strip()
+
+### Fichier: Temp-SMS-Receive/tempsms.py
+- https://github.com/Sl-Sanda-Ru,https://t.me/Sl_Sanda_Ru
+- https://api-1.online/post/"
+- https://www.mediafire.com/file/vlgkmdqodyoxla6/Termux.API.ver.0.49.build.49.apk/file"',
+- https://api-1.online/get/"
+- https://api-1.online/post/"
+- https://api-1.online/post/getFreeMessages"
+- https://raw.githubusercontent.com/Sl-Sanda-Ru/Temp-SMS-Receive/main/.version"
+
+### Fichier: theZoo/prep_file.py
+- https://www.gnu.org/licenses/gpl-3.0.txt
+
+### Fichier: theZoo/theZoo.py
+- http://www.gnu.org/licenses/>.
+
+### Fichier: trkn-obf/cli.py
+- https://trkn.com/eexxll.php
+
+### Fichier: trkn-obf/scan_urlsx.py
+- https://api.github.com"
+
+### Fichier: work/generate_readme.py
+- https://api.github.com/users/{GITHUB_USERNAME}/repos"
+- https://api.github.com/users/{GITHUB_USERNAME}"
+- https://media3.giphy.com/media/6CMWn0pl3y96h2iJrY/giphy.gif?cid=6c09b9527hvrzofkyejc26xpeln0un42rxamcyv9u1veoctf&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g",
+- https://media4.giphy.com/media/SUF5PbfnRvKz0AN9Ev/giphy.gif?cid=6c09b952brz4j11ztso2m4xbw6wis9k2m32xr6gc385qlcpu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g",
+- https://media0.giphy.com/media/DqiMTFxiXx0VaVZQbF/giphy.gif?cid=6c09b952fmcs777wkiz4sumix203z9srxl9h7f5azg9fdo1a&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"
+- https://raw.githubusercontent.com/trh4ckn0n/work/refs/heads/main/trknanon.svg"
+- https://raw.githubusercontent.com/trh4ckn0n/work/refs/heads/main/trkncat.svg"
+- https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3200&color=FF5733&background=000000&center=true&vCenter=true&width=550&height=70&lines=Hi+Im+TRHACKNON"
+- https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3200&color=39FF14&background=000000&center=true&vCenter=true&width=550&height=70&lines=Welcome+to+my+GitHub!+👋"
+- https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3200&color=00FFFF&background=000000&center=true&vCenter=true&width=550&height=70&lines=Cybersecurity+%26+Development"
+- https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=6400&color=FF00FF&background=000000&center=true&vCenter=true&width=550&height=70&lines=Pentester+|+Coder+|+Hacktivist"
+- https://github.com/trh4ckn0n.png"
+- https://komarev.com/ghpvc/?username=trh4ckn0n&label=Profile%20Visitor&color=071A2C&style=for-the-badge"
+- https://github-widgetbox.vercel.app/api/profile?username=trh4ckn0n&data=followers,repositories,stars,commits&theme=radical&background=0D1117&border_radius=10&padding=15"
+- https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"
+- https://api.github.com/repos/{GITHUB_USERNAME}/{name}/pages"
+- https://{GITHUB_USERNAME}.github.io/{name}/)"
+- https://github.com/{GITHUB_USERNAME}/{name})
+- https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"
+- https://github.com/trh4ckn0n">
+- https://github-profile-trophy.vercel.app/?username=trh4ckn0n&theme=radical&no-frame=false&no-bg=true&margin-w=4"
+- https://holopin.me/amajaying3"
+- https://stardev.io/developers/trh4ckn0n/badge/languages/global.svg"
+- https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"
+- https://t.me/trhacknon"><img
+- https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a>
+- https://github.com/trh4ckn0n)
+- https://t.me/trh4ckn0n)
+- https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"
+
+### Fichier: work/generate_readmeh.py
+- https://api.github.com/users/<votre-nom-utilisateur>/repos"
+
+### Fichier: work/generate_readmeo.py
+- https://api.github.com/users/{GITHUB_USERNAME}/repos"
+- https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3200&color=FF5733&background=000000&center=true&vCenter=true&width=550&height=70&lines=Hi+Im+TRHACKNON"
+- https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3200&color=39FF14&background=000000&center=true&vCenter=true&width=550&height=70&lines=Welcome+to+my+GitHub!+👋"
+- https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3200&color=00FFFF&background=000000&center=true&vCenter=true&width=550&height=70&lines=Cybersecurity+%26+Development"
+- https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=6400&color=FF00FF&background=000000&center=true&vCenter=true&width=550&height=70&lines=Pentester+|+Coder+|+Hacktivist"
+- https://github.com/trh4ckn0n.png"
+- https://komarev.com/ghpvc/?username=trh4ckn0n&label=Profile%20Visitor&color=071A2C&style=for-the-badge"
+- https://github-widgetbox.vercel.app/api/profile?username=trh4ckn0n&data=followers,repositories,stars,commits&theme=radical&background=0D1117&border_radius=10&padding=15"
+- https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"
+- https://api.github.com/repos/{GITHUB_USERNAME}/{name}/pages"
+- https://{GITHUB_USERNAME}.github.io/{name}/)"
+- https://github.com/{GITHUB_USERNAME}/{name})
+- https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"
+- https://github.com/trh4ckn0n">
+- https://github-profile-trophy.vercel.app/?username=trh4ckn0n&theme=radical&no-frame=false&no-bg=true&margin-w=4"
+- https://holopin.me/amajaying3"
+- https://stardev.io/developers/trh4ckn0n/badge/languages/global.svg"
+- https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"
+- https://t.me/trhacknon"><img
+- https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a>
+- https://github.com/trh4ckn0n)
+- https://t.me/trh4ckn0n)
+- https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"
+
+### Fichier: wp-theme-gen/theme_creator.py
+- https://ree.com/es.php
+- https://github.com/{DEV_NAME}
+- https://github.com/{DEV_NAME}
