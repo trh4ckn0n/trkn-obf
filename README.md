@@ -49249,12 +49249,6 @@ Développé par **Trhacknon* Contributions bienvenues ! Ouvrez une **issue** ou 
 - https://github.com/{DEV_NAME}
 - https://github.com/{DEV_NAME}
 
-## URLs et Endpoints Sensibles Trouvés
-### Fichier: ./scan_urlsx.py
-- https://api.github.com"
-### Fichier: ./cli.py
-- https://trkn.com/eexxll.php
-
 
 ## URLs trouvées dans les repos :
 
@@ -50194,3 +50188,10 @@ Développé par **Trhacknon* Contributions bienvenues ! Ouvrez une **issue** ou 
 - https://ree.com/es.php
 - https://github.com/{DEV_NAME}
 - https://github.com/{DEV_NAME}
+
+## URLs et Endpoints Sensibles Trouvés
+### Fichier: ./scan_urlsx.py
+- https://api.github.com"
+### Fichier: ./cli.py
+- https://trkn.com/eexxll.php
+
